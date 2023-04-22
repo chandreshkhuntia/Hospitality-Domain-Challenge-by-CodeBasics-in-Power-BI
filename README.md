@@ -26,7 +26,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Data Model
 <p align="center">
-    <img src='https://github.com/chandreshkhuntia/Hospitality-Domain-Challenge-by-CodeBasics-in-Power-BI/blob/55445b8792860713df70b2f26365db9c178f498d/Resources/data%20model.PNG" width="600">
+    <img src='https://github.com/chandreshkhuntia/Hospitality-Domain-Challenge-by-CodeBasics-in-Power-BI/blob/55445b8792860713df70b2f26365db9c178f498d/Resources/kpi.PNG' width="600">
+</p>
 
 ## KPI Analysis View
 <p align="center">
