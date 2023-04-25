@@ -1,7 +1,7 @@
 ```bash
 Challenge #1 : Provide Insights to the Revenue Team in the Hospitality Domain By CodeBasics
 ```
-Link to [Interactive Dashboard]()
+Link to [Interactive Dashboard](https://www.novypro.com/project/challenge-1--provide-insights-to-the-revenue-team-in-the-hospitality-domain-by-codebasics-power-bi)
 
 Link to [Resume Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
